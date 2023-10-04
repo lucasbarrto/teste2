@@ -196,7 +196,7 @@ i{
     font-size: 35px;
 }
 .conteudoImg{
-    background-image: url(/assets/fotos1.png);
+    background-image: url(../assets/fotos1.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
